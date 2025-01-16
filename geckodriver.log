@@ -1,0 +1,13 @@
+1737018875078	geckodriver	INFO	Listening on 127.0.0.1:55927
+1737018875931	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileft9uzL"
+1737019059096	geckodriver	INFO	Listening on 127.0.0.1:60543
+1737019059900	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUhUvfv"
+1737019083193	geckodriver	INFO	Listening on 127.0.0.1:37355
+1737019084222	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL6iNau"
+1737020111787	geckodriver	INFO	Listening on 127.0.0.1:47599
+1737020112714	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZQzpuk"
+1737020557209	geckodriver	INFO	Listening on 127.0.0.1:48265
+1737020594897	geckodriver	INFO	Listening on 127.0.0.1:54321
+1737020595749	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ommon/.mozilla/firefox/0nnqsujr.mayur22kar" "--remote-debugging-port" "41859" "--remote-allow-hosts" "localhost" "-no-remote"
+Read port: 40667
+Read port: 40667
