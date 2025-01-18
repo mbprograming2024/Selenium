@@ -23,7 +23,6 @@ driver.forward()
 print("after pressing forword")
 print(driver.title)
 
-
 driver.refresh() 
 
 
